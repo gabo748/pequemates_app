@@ -3,8 +3,6 @@
 //  MathForKids
 //
 //  Created by Gabriel Campos on 5/5/25.
-//  Copyright © 2025 Gregory Stark. All rights reserved.
-//
 
 import Foundation
 
